@@ -1,1 +1,1 @@
-web: npm run startgit ad
+web: npm run start
